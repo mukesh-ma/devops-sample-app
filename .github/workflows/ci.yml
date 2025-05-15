@@ -23,9 +23,3 @@ jobs:
 
       - name: Run tests
         run: npm test
-
-      - name: Build Docker image
-        run: |
-          docker build -t mukeshma/devops-sample-app .
-          docker tag mukeshma/devops-sample-app mukeshma/devops-sample-app:${{ github.sha }}
-          docker push mukeshma/devops-sample-app:${{ github.sha }}
