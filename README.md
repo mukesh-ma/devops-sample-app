@@ -159,5 +159,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * **Open Source Community**: For contributing to the development and best practices of CI/CD.
 
 ---
-
-This README provides a comprehensive overview of the project, its features, setup, and usage. Let me know if you need further adjustments or additions!
